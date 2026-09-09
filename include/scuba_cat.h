@@ -1,6 +1,10 @@
 #pragma once
-#include <stddef.h>
+
 #include <lvgl.h>
 
-extern const lv_image_dsc_t *const scuba_cat_frames[56];
-extern const size_t scuba_cat_frame_count;
+#define SCUBA_CAT_WIDTH 128
+#define SCUBA_CAT_HEIGHT 32
+#define SCUBA_CAT_FRAME_COUNT 20
+#define SCUBA_CAT_FRAME_MS 100
+
+extern const lv_image_dsc_t scuba_cat_frames[SCUBA_CAT_FRAME_COUNT];

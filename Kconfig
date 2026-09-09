@@ -1,2 +1,1 @@
-# Scuba Cat does not add user-facing Kconfig symbols.
-# The animation requires LVGL's animimg widget, enabled in <keyboard>.conf.
+# Scuba Cat has no custom Kconfig symbols.

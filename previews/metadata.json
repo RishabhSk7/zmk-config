@@ -1,0 +1,47 @@
+{
+  "source": "scuba.mp4",
+  "source_frames": 56,
+  "source_fps": 25,
+  "source_duration_sec": 2.24,
+  "output_frames": 20,
+  "output_frame_ms": 100,
+  "output_fps": 10,
+  "width": 128,
+  "height": 32,
+  "pixel_format": "LV_COLOR_FORMAT_A1",
+  "bytes_per_frame": 512,
+  "crop": [
+    46,
+    49,
+    426,
+    460
+  ],
+  "subject_box": [
+    50,
+    1,
+    28,
+    30
+  ],
+  "sample_indices": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    14,
+    17,
+    20,
+    23,
+    26,
+    29,
+    32,
+    35,
+    38,
+    41,
+    43,
+    46,
+    49,
+    52,
+    55
+  ]
+}
